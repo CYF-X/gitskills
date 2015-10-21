@@ -1,3 +1,4 @@
 # gitskills
 HELLO BODY
-this is master
+creating a new branch is quick and simple
+
